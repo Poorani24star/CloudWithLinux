@@ -1,2 +1,2 @@
 # CloudWithLinux
-Working in virtyal Linux Environment
+Working in virtual Linux Environment
